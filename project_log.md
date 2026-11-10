@@ -108,4 +108,5 @@ TLDR: Imposter Syndrome Fix
 - literature and best practices on model evaluation 
 - adversarial models in production
 - general design pattern of the application
+- critical eval of all of the above, and proper citation
 
